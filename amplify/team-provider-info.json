@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-alindablog-dev-53806-authRole",
+      "UnauthRoleArn": "arn:aws:iam::094106269614:role/amplify-alindablog-dev-53806-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::094106269614:role/amplify-alindablog-dev-53806-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-alindablog-dev-53806-deployment",
+      "UnauthRoleName": "amplify-alindablog-dev-53806-unauthRole",
+      "StackName": "amplify-alindablog-dev-53806",
+      "StackId": "arn:aws:cloudformation:us-east-1:094106269614:stack/amplify-alindablog-dev-53806/6cb36fb0-033d-11ec-b8d6-1203de0f9227",
+      "AmplifyAppId": "d3k86egow844x7"
+    }
+  }
+}
